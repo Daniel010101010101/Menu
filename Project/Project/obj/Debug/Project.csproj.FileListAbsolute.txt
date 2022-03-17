@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Programación\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ASUS\Desktop\Programación\Project\Project\bin\Debug\Project.exe
+C:\Users\ASUS\Desktop\Programación\Project\Project\bin\Debug\Project.pdb
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.Menu.resources
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.exe
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.pdb
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.bodymass.resources
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.DateTime.resources
+C:\Users\ASUS\Desktop\Programación\Project\Project\obj\Debug\Project.calculator.resources
